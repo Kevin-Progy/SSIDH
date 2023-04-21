@@ -75,3 +75,11 @@ Here are some sample results obtained from the algorithm:
 ### Dehazed Image
 
 ![Dehazed Image](dataset/dehazed_images/img46_dehazed.jpg)
+
+# Metrics
+
+## PSNR(peak signal-to-noise ratio):
+28.56 dB
+
+## SSIM(structural similarity index):
+0.9261 
