@@ -70,8 +70,8 @@ Here are some sample results obtained from the algorithm:
 
 ### Input Image
 
-![Input Image](dataset/hazy_image1.jpg)
+![Input Image](dataset/hazy_images/img46.jpg)
 
 ### Dehazed Image
 
-![Dehazed Image](dataset/dehazed.jpg)
+![Dehazed Image](dataset/dehazed_images/img46_dehazed.jpg)
