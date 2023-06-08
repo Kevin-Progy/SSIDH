@@ -8,7 +8,7 @@ This project demonstrates how to use Fourier Transform and Bilateral Filtering t
 * OpenCV
 * numpy
 
-## Installing
+## Installation
 
     Python: https://www.python.org/downloads/
     OpenCV: pip install opencv-python
